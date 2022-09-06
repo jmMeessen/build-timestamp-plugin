@@ -1,5 +1,7 @@
 # [LOOK FOR NEW MAINTAINER]
 
+This is a demo of the Gitpod flow
+
 # build-timestamp-plugin
 Adding `BUILD_TIMESTAMP` to jenkins env vars,
 
